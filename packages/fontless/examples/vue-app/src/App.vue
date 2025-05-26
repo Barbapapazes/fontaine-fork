@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Google</h1>
-    <p class="google-poppins">Poppins</p>
+    <p class="font-display">Poppins</p>
     <p class="google-press-start">Press Start 2P</p>
 
     <h1>Bunny</h1>
